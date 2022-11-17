@@ -14,8 +14,9 @@ $ sudo apt install bison
 ## How does this sample work?
 
 ```
+$ cd $HOME
 $ git clone https://github.com/Chakib08/Hello-world-Linux-kernel-module.git
-$ cd $HOME/Hello-world-Linux-kernel-module/
+$ cd Hello-world-Linux-kernel-module/
 $ make
 ```
 
