@@ -3,7 +3,7 @@ Sample to add a hello world Linux kernel modue
 
 
 ## Requirements
-* You need to have a machine running on a Linux distro
+* You need a machine running on a Linux distro
 * You need to install flex and bison packages
 
 ```
